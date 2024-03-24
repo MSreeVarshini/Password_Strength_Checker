@@ -12,7 +12,7 @@ from sklearn.ensemble import RandomForestClassifier
 import getpass
 
 data = pd.read_csv("PSC.csv", on_bad_lines='skip')
-# print(data.head())
+print(data.head())
 
 # Transforming integer strength of a password to verbal
 data = data.dropna()
