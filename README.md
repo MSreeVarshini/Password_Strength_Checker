@@ -22,4 +22,4 @@ This is how you can use machine learning to create a passwor strength checker us
 
 
 
-I hope you liked this article on creating a password strength checker with machine learning using python.
+I hope you liked this article on creating a password strength checker with machine learning using python :)
